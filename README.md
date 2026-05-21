@@ -96,3 +96,11 @@ Sources below threshold (default 60) are filtered before synthesis.
 ## License
 
 MIT
+
+## Contact
+
+- **GitHub:** [@airdrop9898](https://github.com/airdrop9898)
+- **Email:** airdrop10969@gmail.com
+- **Issues:** [github.com/airdrop9898/research-agent/issues](https://github.com/airdrop9898/research-agent/issues)
+
+Maintained by Andri Wibisono. Open to collaboration, integration with knowledge management tools, and research partnerships.
